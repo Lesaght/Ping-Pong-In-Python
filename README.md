@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
   pip install pygame
 # Installation
 Clone the repository:
-```git clone https://github.com/Lesaght/Ping-Pong-In-Python.git
+git clone https://github.com/Lesaght/Ping-Pong-In-Python.git
 Navigate to the project directory:
 cd Ping-Pong-In-Python
 Run the game:
